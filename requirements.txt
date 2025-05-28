@@ -1,4 +1,4 @@
-Flask
 pyTelegramBotAPI
-psutil
+Flask
 requests
+psutil
