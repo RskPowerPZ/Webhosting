@@ -45,7 +45,7 @@ def keep_alive():
 
 # --- Configuration ---
 TOKEN = '7575741275:AAHwb7JX4_xFEIFJLInLXlK2p3fLnCKdTlA' # Replace with your actual token
-OWNER_ID = 7575741275 # Replace with your Owner ID
+OWNER_ID = 7470004765 # Replace with your Owner ID
 ADMIN_ID = 6264372980 # Replace with your Admin ID (can be same as Owner)
 YOUR_USERNAME = '@DarkBhaiFan' # Replace with your Telegram username (without the @)
 UPDATE_CHANNEL = 't.me/DreamBoyXchat' # Replace with your update channel link
