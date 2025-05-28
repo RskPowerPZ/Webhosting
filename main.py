@@ -30,7 +30,7 @@ app = Flask('')
 
 @app.route('/')
 def home():
-    return "I'am Atx File Host"
+    return "I'am Rdx File Host"
 
 def run_flask():
   # Make sure to run on port provided by environment or default to 8080
@@ -45,11 +45,11 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = '7856374259:AAGUb7aQrR5xWL7gfsM2OcL2rdm9wil1Tt8' # Replace with your actual token
-OWNER_ID = 7866166743 # Replace with your Owner ID
-ADMIN_ID = 7866166743 # Replace with your Admin ID (can be same as Owner)
-YOUR_USERNAME = '@ashikxdev' # Replace with your Telegram username (without the @)
-UPDATE_CHANNEL = 't.me/botworldxyx' # Replace with your update channel link
+TOKEN = '7575741275:AAHwb7JX4_xFEIFJLInLXlK2p3fLnCKdTlA' # Replace with your actual token
+OWNER_ID = 7575741275 # Replace with your Owner ID
+ADMIN_ID = 6264372980 # Replace with your Admin ID (can be same as Owner)
+YOUR_USERNAME = '@DarkBhaiFan' # Replace with your Telegram username (without the @)
+UPDATE_CHANNEL = 't.me/DreamBoyXchat' # Replace with your update channel link
 
 # Folder setup - using absolute paths
 BASE_DIR = os.path.abspath(os.path.dirname(__file__)) # Get script's directory
